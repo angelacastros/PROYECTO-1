@@ -1,6 +1,6 @@
 ***Descripcion *Arduino-1***
 ## ¿Qué es arduino?
-![alt text](https://github.com/https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ibertronica.es%2Fblog%2Fwp-content%2Fuploads%2F2017%2F04%2Fbanner-arduino.jpg&imgrefurl=https%3A%2F%2Fwww.ibertronica.es%2Fblog%2Fproductos%2Farduino%2F&docid=zj1TJP8_k1rwfM&tbnid=R6WF4k3uNbe7HM%3A&vet=10ahUKEwjqxs-ku6ngAhWRnOAKHRP6AKAQMwjMASgPMA8..i&w=890&h=350&bih=641&biw=1016&q=arduino&ved=0ahUKEwjqxs-ku6ngAhWRnOAKHRP6AKAQMwjMASgPMA8&iact=mrc&uact=8)
+
 Arduino es una plataforma de creación de electrónica de código abierto, la cual está basada en hardware y software libre, flexible y fácil de utilizar para los creadores y desarrolladores. Esta plataforma permite crear diferentes tipos de microordenadores de una sola placa a los que la comunidad de creadores puede darles diferentes tipos de uso.
 ## ¿ Cómo funciona?
 El Arduino es una placa basada en un microcontrolador ATMEL. Los microcontroladores son circuitos integrados en los que se pueden grabar instrucciones, las cuales las escribes con el lenguaje de programación que puedes utilizar en el entorno Arduino IDE. Estas instrucciones permiten crear programas que interactúan con los circuitos de la placa.

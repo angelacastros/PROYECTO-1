@@ -7,7 +7,7 @@ software libre, flexible y fácil de utilizar para los creadores y desarrollador
 crear diferentes tipos de microordenadores de una sola placa a los que la comunidad de creadores puede
 darles diferentes tipos de uso.
 
-**¿COMO FUNCIONA? **
+**¿COMO FUNCIONA?**
 
 El Arduino es una placa basada en un microcontrolador ATMEL.Los microcontroladores son circuitos integrados
 en los que se pueden grabar instrucciones, las cuales las escribes con el lenguaje de programación que puedes 

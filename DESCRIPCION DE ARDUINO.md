@@ -1,13 +1,13 @@
 # DESCRIPCION DE ARDUINO.
 
-**¿QUE ES ARDUINO?
+**¿QUE ES ARDUINO?**
 
 Arduino es una plataforma de creación de electrónica de código abierto, la cual está basada en hardware y 
 software libre, flexible y fácil de utilizar para los creadores y desarrolladores. Esta plataforma permite
 crear diferentes tipos de microordenadores de una sola placa a los que la comunidad de creadores puede
 darles diferentes tipos de uso.
 
-**¿COMO FUNCIONA? 
+**¿COMO FUNCIONA? **
 
 El Arduino es una placa basada en un microcontrolador ATMEL.Los microcontroladores son circuitos integrados
 en los que se pueden grabar instrucciones, las cuales las escribes con el lenguaje de programación que puedes 

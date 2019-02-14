@@ -1,8 +1,21 @@
 # PROBADOR DE LEDS 
 **Descripcion** 
+Para el desarrollo del proyecto es necesaria la utilizacion de leds, 
+de alli surge la importancia de entender el funcionamiento de un led y
+observar la manera correcta en la que esta funciona 
 **Para que funciona** 
+Con la ayuda de una placa arduino mega y el montaje en un protboard se 
+logra evidenciar que los leds esten funcionando de manera correcta, ya 
+que el computador alimenta la placaarduino y esta se conecta con el protoboard
+donde los jumpers y las resistencias hacen conexion para probar los leds 
 **Materiales**
+-  3 diodos leds
+-  5 jumpers 
+-  una placa arduino mega
+-  protoboard 
+-  3 resistencias de 250 ohmnios 
 **Fotos**
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-reichelt.de%2Fbilder%2Fweb%2Fxxl_ws%2FB300%2FARDUINO_UNO_A01.png&imgrefurl=https%3A%2F%2Fwww.reichelt.com%2Fde%2Fen%2Farduino-uno-rev-3-atmega328-usb-arduino-uno-p119045.html&docid=9Ov-QRBDGOwDBM&tbnid=jjaStbDxGFO1IM%3A&vet=10ahUKEwjgv_-_oqrgAhUKrVkKHfKtDsAQMwhxKAYwBg..i&w=3000&h=1825&bih=591&biw=844&q=ARDUINO&ved=0ahUKEwjgv_-_oqrgAhUKrVkKHfKtDsAQMwhxKAYwBg&iact=mrc&uact=8 )
+
 **Diagrama esquematico**
+
 **Diagrama pictorico**

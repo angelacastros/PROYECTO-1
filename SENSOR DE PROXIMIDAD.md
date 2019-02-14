@@ -6,7 +6,7 @@
 
 **Materiales**
 
-**fotos**
+**Fotos**
 
 **Diagrama picórico**
 

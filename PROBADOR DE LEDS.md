@@ -21,6 +21,8 @@ donde los jumpers y las resistencias hacen conexion para probar los leds.
 -  3 resistencias de 250 ohmnios 
 
 **Fotos**
+![alt text](
+
 
 **Diagrama esquematico**
 

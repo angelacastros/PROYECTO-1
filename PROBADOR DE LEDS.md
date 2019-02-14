@@ -25,9 +25,9 @@ donde los jumpers y las resistencias hacen conexion para probar los leds.
 ![Foto Probador de leds ](https://github.com/angelacastros/PROYECTO-1/blob/master/20190212_154115.jpg?raw=true)
 
 
-**Diagrama esquematico**
+**Diagrama esquemático**
 
 ![Diagrama esquematico]( https://github.com/angelacastros/PROYECTO-1/blob/master/Untitled%20Sketch_bb.jpg?raw=true)
 
-**Diagrama pictorico**
+**Diagrama pictórico**
 ![diagrama pictorico]( https://github.com/angelacastros/PROYECTO-1/blob/master/Untitled%20Sketch_esquem%C3%A1tico.jpg?raw=true)

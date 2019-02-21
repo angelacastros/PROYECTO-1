@@ -11,18 +11,12 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 **Materiales**
 
 - Leds
+- Sensor ultrasónico HC-SR04
+- Placa arduino
+- Resistencias
+- Protoboard 
+- Jumpers 
 
-- sensor ultrasónico HC-SR04
-
-- placa arduino
-
-- resistencias
-
-**Fotos**
-
-![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/20190214_161130.jpg?raw=true)
-
-![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/20190214_161151.jpg?raw=true)
 
 **codigo**
 ![CODIGO ](![Foto diagrama pictorico  ](https://github.com/angelacastros/PROYECTO-1/blob/master/Diagrama%20Pictorico.png?raw=true))
@@ -34,4 +28,10 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 **Diagrama esquemático**
 ![Diagrama esquemático ](https://github.com/angelacastros/PROYECTO-1/blob/master/Diagrama%20esquematico.png?raw=true)
 
+
+**Fotos**
+
+![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/20190214_161130.jpg?raw=true)
+
+![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/20190214_161151.jpg?raw=true)
 

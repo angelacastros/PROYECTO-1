@@ -17,6 +17,9 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 
 **Fotos**
 
+![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/20190214_161130.jpg?raw=true)
+
+![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/20190214_161151.jpg?raw=true)
 
 **codigo**
 
@@ -27,3 +30,5 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 
 **Diagrama esquemático**
 ![Diagrama esquemático ](https://github.com/angelacastros/PROYECTO-1/blob/master/Diagrama%20esquematico.png?raw=true)
+
+

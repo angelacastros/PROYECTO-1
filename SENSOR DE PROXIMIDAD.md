@@ -10,10 +10,13 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 
 **Materiales**
 
--Leds
--sensor ultrasónico HC-SR04
--placa arduino
--resistencias
+- Leds
+
+- sensor ultrasónico HC-SR04
+
+- placa arduino
+
+- resistencias
 
 **Fotos**
 

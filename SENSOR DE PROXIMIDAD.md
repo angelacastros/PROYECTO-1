@@ -37,3 +37,9 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 ![CODIGO ](https://github.com/angelacastros/PROYECTO-1/blob/master/codes/sensor%20de%20proximidad/sensor%20de%20proximidad.ino)
 
 
+Inline `code` has `back-ticks around` it.
+
+
+
+
+

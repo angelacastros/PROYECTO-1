@@ -19,19 +19,20 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 
 
 **codigo**
-![CODIGO ](![Foto diagrama pictorico  ](https://github.com/angelacastros/PROYECTO-1/blob/master/Diagrama%20Pictorico.png?raw=true))
-
-**Diagrama picórico**
-![Foto diagrama pictorico  ](https://github.com/angelacastros/PROYECTO-1/blob/master/Diagrama%20Pictorico.png?raw=true)
+![CODIGO ](https://github.com/angelacastros/PROYECTO-1/blob/master/codes/sensor%20de%20proximidad/sensor%20de%20proximidad.ino)
 
 
 **Diagrama esquemático**
-![Diagrama esquemático ](https://github.com/angelacastros/PROYECTO-1/blob/master/Diagrama%20esquematico.png?raw=true)
+![Diagrama esquemático ](https://github.com/angelacastros/PROYECTO-1/blob/master/images/Diagrama%20esquematico.png?raw=true)
+
+
+**Diagrama picórico**
+![Foto diagrama pictorico  ](https://github.com/angelacastros/PROYECTO-1/blob/master/images/Diagrama%20Pictorico.png?raw=true)
 
 
 **Fotos**
 
-![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/20190214_161130.jpg?raw=true)
+![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/images/20190214_161130.jpg?raw=true)
 
-![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/20190214_161151.jpg?raw=true)
+![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/images/20190214_161151.jpg?raw=true)
 

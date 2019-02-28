@@ -20,14 +20,15 @@ donde los jumpers y las resistencias hacen conexion para probar los leds.
 -  Protoboard 
 -  3 resistencias de 250 ohmnios 
 
-**Fotos**
-
-![Foto Probador de leds ](https://github.com/angelacastros/PROYECTO-1/blob/master/20190212_154115.jpg?raw=true)
-
 
 **Diagrama esquemático**
 
-![Diagrama esquematico]( https://github.com/angelacastros/PROYECTO-1/blob/master/Untitled%20Sketch_bb.jpg?raw=true)
+![Diagrama esquematico]( https://github.com/angelacastros/PROYECTO-1/blob/master/images/Untitled%20Sketch_esquem%C3%A1tico.jpg?raw=true)
 
 **Diagrama pictórico**
-![diagrama pictorico]( https://github.com/angelacastros/PROYECTO-1/blob/master/Untitled%20Sketch_esquem%C3%A1tico.jpg?raw=true)
+![diagrama pictorico]( https://github.com/angelacastros/PROYECTO-1/blob/master/images/Untitled%20Sketch_bb.jpg?raw=true)
+
+
+**Fotos**
+
+![Foto Probador de leds ](https://github.com/angelacastros/PROYECTO-1/blob/master/images/20190212_154115.jpg?raw=true)

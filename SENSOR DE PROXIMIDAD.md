@@ -18,10 +18,6 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 - Jumpers 
 
 
-**codigo**
-![CODIGO ](https://github.com/angelacastros/PROYECTO-1/blob/master/codes/sensor%20de%20proximidad/sensor%20de%20proximidad.ino)
-
-
 **Diagrama esquemático**
 ![Diagrama esquemático ](https://github.com/angelacastros/PROYECTO-1/blob/master/images/Diagrama%20esquematico.png?raw=true)
 
@@ -35,4 +31,9 @@ Con este proyecto buscamos darlle utilidad al sensor ultrasonido instalado en el
 ![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/images/20190214_161130.jpg?raw=true)
 
 ![Foto](https://github.com/angelacastros/PROYECTO-1/blob/master/images/20190214_161151.jpg?raw=true)
+
+
+**codigo**
+![CODIGO ](https://github.com/angelacastros/PROYECTO-1/blob/master/codes/sensor%20de%20proximidad/sensor%20de%20proximidad.ino)
+
 
